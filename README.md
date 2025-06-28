@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Igor Almeida
 
-<!--
-**igooralm192/igooralm192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Software Engineer with ~6 years of experience building high-quality web and mobile applications using **Node.js**, **React**, and **React Native**. I’m passionate about clean architecture, performance optimization, and developer experience.
 
-Here are some ideas to get you started:
+### ⚒️ Core Skills
+- 🔧 **Backend Development**: REST APIs, data modeling, background jobs, authentication, clean architecture
+- 🖼️ **Frontend Engineering**: Component-driven UI, state management, reusable patterns, performance tuning
+- 📐 **Architecture & Code Quality**: Scalable solutions, clean code principles, internal tooling for productivity
+- ☁️ **Cloud & DevOps**: Google Cloud (certified), PostgreSQL replication, Docker, monitoring with Grafana
+- 🤝 **Team & Leadership**: Leading squads, mentoring developers, aligning tech decisions with business needs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe software should turn complex problems into intuitive solutions — and I enjoy building tools and features that do exactly that.
+
+---
+
+📫 **Let’s connect**  
+Reach out on [LinkedIn](https://www.linkedin.com/in/ialmeida-dev) or check out some of my pinned projects below.
