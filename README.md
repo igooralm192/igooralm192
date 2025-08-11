@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Igor Almeida
 
-I'm a Full-stack Software Engineer with 7+ years of experience building high-quality web and mobile applications using **Node.js**, **React**, and **React Native**. I’m passionate about clean architecture, performance optimization, and developer experience.
+I'm a Software Engineer with 7+ years of experience building high-quality web and mobile applications using **Node.js**, **React**, and **React Native**. I’m passionate about clean architecture, performance optimization, and developer experience.
 
 ### ⚒️ Core Skills
 - 🔧 **Backend Development**: REST APIs, data modeling, background jobs, authentication, clean architecture
